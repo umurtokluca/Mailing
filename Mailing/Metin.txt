@@ -1,0 +1,12 @@
+Metinler:
+
+Ne Yapmalýyýz?
+Lütfen parolanýzý dikkatli seçin ve baþka kimse ile paylaþmayýn.
+
+Neden Yapmalýyýz?
+Bilgisayar hesaplarý üzerinden gerçekleþtirilen her iþlem, sizin adýnýzla gerçekleþtirilmiþ þekilde kayýt altýna alýndýðýndan, bu kayýtlar herhangi bir olay durumunda kanýt niteliði taþýmaktadýr. Yapýlan her türlü uygunsuz davranýþ, disiplin kurallarý gereðince yaptýrýmlara tabi tutulur. Bu nedenle, hesaplarýnýzdan yetkisiz iþlemlerinin yapýlmasýný önlemek amacýyla þifrelerinizi gizli tutun.
+
+Nasýl Yapmalýyýz?
+- Baþkalarýnýn tahmin edemeyeceði ama sizin kolay hatýrlayabileceðiniz þifreler seçin.
+- En az 8 karakterli, sayý, büyük/küçük harf ve özel karakterler ile karmaþýklaþtýrýlmýþ bir þifre seçin.
+- Bilgisayardaki güvenlik þifrelerinizi düzenli olarak deðiþtiriniz.
